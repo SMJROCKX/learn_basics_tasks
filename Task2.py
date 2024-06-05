@@ -125,3 +125,4 @@ table.setStyle(TableStyle([('BACKGROUND', (0, 0), (-1, 0), colors.white),
 
 
 elements.append(table)
+doc.build(elements)
